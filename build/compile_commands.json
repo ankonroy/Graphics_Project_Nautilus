@@ -1,0 +1,122 @@
+[
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/camera.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/camera.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/camera.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/camera.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/cave.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/cave.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/cave.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/cave.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/checkpoint.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/checkpoint.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/checkpoint.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/checkpoint.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/draw.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/draw.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/draw.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/draw.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/fish.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/fish.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/fish.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/fish.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/game.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/game.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/game.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/game.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/hud.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/hud.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/hud.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/hud.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/input.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/input.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/input.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/input.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/interior.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/interior.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/interior.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/interior.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/island.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/island.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/island.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/island.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/main.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/main.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/main.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/main.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/mesh.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/mesh.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/mesh.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/mesh.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/mine.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/mine.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/mine.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/mine.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/particles.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/particles.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/particles.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/particles.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/rng.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/rng.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/rng.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/rng.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/rock.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/rock.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/rock.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/rock.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/shader.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/shader.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/shader.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/shader.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/submarine.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/submarine.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/submarine.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/submarine.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/texture.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/texture.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/texture.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/texture.cpp.o"
+},
+{
+  "directory": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build",
+  "command": "/usr/bin/g++  -I\"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/include\" -g -std=gnu++17 -o CMakeFiles/MyOpenGLProject.dir/src/torpedo.cpp.o -c \"/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/torpedo.cpp\"",
+  "file": "/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/src/torpedo.cpp",
+  "output": "CMakeFiles/MyOpenGLProject.dir/src/torpedo.cpp.o"
+}
+]

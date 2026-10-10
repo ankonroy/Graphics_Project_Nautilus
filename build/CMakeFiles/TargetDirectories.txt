@@ -1,0 +1,3 @@
+/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build/CMakeFiles/MyOpenGLProject.dir
+/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build/CMakeFiles/edit_cache.dir
+/media/lenovo/New Volume1/Programming/Graphics/Graphics_Project_Nautilus/build/CMakeFiles/rebuild_cache.dir
